@@ -1,4 +1,4 @@
-# Howdy 👋
+### Howdy 👋
 
 I'm Laurier, a game developer and student at UC Berkeley. 
 
