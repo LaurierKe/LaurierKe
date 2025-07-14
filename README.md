@@ -1,5 +1,10 @@
-## Hi there 👋
+## Howdy 👋
 
+I'm Laurier, a game developer and student at UC Berkeley. 
+
+I create games using Unity, but am currently learning Godot and Unreal Engine on the side. 
+
+Fun fact: I like playing and making horror games but I am not very good at them haha. 
 <!--
 **LaurierKe/LaurierKe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
