@@ -2,7 +2,7 @@
 
 I'm Laurier, a game developer and student at UC Berkeley. 
 
-I create games using Unity, but am currently learning Godot and Unreal Engine on the side. 
+I create games using Unity.
 
 Fun fact: I like playing and making horror games but I am not very good at them haha. 
 
