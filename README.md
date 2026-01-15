@@ -4,7 +4,7 @@ I'm Laurier, a game developer and student at UC Berkeley.
 
 I create games using Unity.
 
-Fun fact: I like playing and making horror games but I am not very good at them haha. 
+Looking for some artists and composers! 
 
 ### Skills 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
@@ -24,6 +24,8 @@ Fun fact: I like playing and making horror games but I am not very good at them 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <!--
 **LaurierKe/LaurierKe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
