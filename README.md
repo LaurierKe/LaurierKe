@@ -2,7 +2,7 @@
 
 I'm Laurier, a game developer and student at UC Berkeley. 
 
-I create games using Unity.
+I create games and VR experiences using Unity.
 
 Looking for some artists and composers! 
 
@@ -26,6 +26,9 @@ Looking for some artists and composers!
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 
 <!--
 **LaurierKe/LaurierKe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
